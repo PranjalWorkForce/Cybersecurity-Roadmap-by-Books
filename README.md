@@ -1,10 +1,10 @@
-# ðŸ“š Cybersecurity Study Roadmap: Theory to Practical Mastery
+# Cybersecurity Study Roadmap: Theory to Practical Mastery
 
 A curated, structured study guide tracking a complete hands-on cybersecurity learning path. This roadmap transitions you from a beginner running standard tools to an advanced expert manipulating low-level system memory and disassembling malware.
 
 ---
 
-## ðŸ› ï¸ The Launchpad: Foundation & Methodology
+# The Launchpad: Foundation & Methodology
 Before diving into complex coding, this stage establishes the mindset and core workflow of a professional penetration tester.
 
 ### 1. The Basics of Hacking and Penetration Testing (3rd Edition)
@@ -29,7 +29,7 @@ Transitioning into hands-on operating system control and creating an isolated ne
 
 ---
 
-## ðŸ Stage 2: Intermediate (Automation & Active Red Teaming)
+# Stage 2: Intermediate (Automation & Active Red Teaming)
 Moving past pre-packaged tools to write custom attack code and simulate real-world enterprise cyber attacks.
 
 ### 4. The Hacker Playbook 3 (Red Team Edition)
